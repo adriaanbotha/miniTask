@@ -1,5 +1,5 @@
 <template>
-  <div v-if="!isProductLoading" class="px-64">
+  <div v-if="!isProductLoading" class="px-64 pt-8">
     <VueTailwindPagination
       :current="this.getProductsPaginatedData.current_page"
       :total="this.getProductsPaginatedData.total"
