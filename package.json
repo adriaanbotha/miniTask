@@ -1,0 +1,33 @@
+{
+  "name": "adore-beauty-task",
+  "version": "1.0.0",
+  "description": "This project creates a mini UI which interacts with Adore Beauty's API's",
+  "author": "Adriaan Botha",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriaanbotha/miniTask.git"
+  },
+  "dependencies": {
+    "@ocrv/vue-tailwind-pagination": "0.0.4",
+    "axios": "^0.21.1",
+    "tailwindcss": "^1.9.6",
+    "vue": "^3.0.2",
+    "vue-head": "^2.2.0",
+    "vue-json-pretty": "^1.8.1",
+    "vue-router": "^4.0.0-rc.1",
+    "vuex": "^4.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-vue": "^7.15.0",
+    "prettier": "2.3.2",
+    "vite": "^1.0.0-rc.8"
+  }
+}

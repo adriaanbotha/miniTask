@@ -1,0 +1,5 @@
+/dist/**
+*.css
+*.woff
+*.woff2
+/App/public/js/**
