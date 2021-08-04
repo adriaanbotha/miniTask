@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-200 h-full">
+  <div class="bg-white h-full">
     <Header />
     <div class="">
       <div class="container mx-auto">
